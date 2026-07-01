@@ -1,0 +1,5 @@
+# build archive (redundant with the tracked source folders)
+*.7z
+
+# extracted/generated on run — not source
+tarot/
